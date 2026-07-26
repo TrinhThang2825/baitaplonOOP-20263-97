@@ -1,1 +1,25 @@
+# Java build output
+out/
+build/
+*.class
 
+# IDE metadata
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+*.iml
+
+# Temporary report generation files
+report/build_report/
+
+# Microsoft Word lock and recovery files
+~$*.docx
+~WRL*.tmp
+*.tmp
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
